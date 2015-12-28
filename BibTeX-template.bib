@@ -1,0 +1,307 @@
+% !TEX encoding = IsoLatin
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Sapluuna BibTeX-tietokantojen tekemistä varten.
+
+Huomautuksia:
+- Valinnaisten kenttien edessä on OPT, joka tulee poistaa, jos kyseinen
+  kenttä otetaan käyttöön. Muutoin OPT-kenttiä ei käsitellä.
+- Kaikki tietueiden ulkopuolinen teksti tulkitaan kommenteiksi, mutta
+  älä käytä ät-merkkiä tietueiden ulkopuolella.
+- Tietueen avain (key) ei saa sisältää välilyöntejä eikä pilkkuja.
+- Kentät author ja editor ovat vaihtoehtoisia tietueissa book ja inbook.
+- Kentät volume ja number ovat vaihtoehtoisia paitsi tietueessa article,
+  jossa voi käyttää molempia.
+- Kentät isbn, issn, url ja language eivät toimi BibTeXin alkuperäisten
+  tyylitiedostojen kanssa.
+- Jos tietueella ei ole tekijää (author tai editor), niin kannattaa
+  käyttää kenttää key, jota käytetään mm. aakkostukseen.
+- Jokaisessa tietuessa voidaan käyttää kenttää note, johon voi sijoittaa
+  tietoja, jotka eivät sovi muihin kenttiin.
+
+Jarmo Niemelä, 2014-12-21.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+A template for BibTeX databases.
+
+Notes:
+- The fields beginning with OPT are optional. If you use those fields,
+  remove OPT from the field name. Otherwise the field will be ignored.
+- Everything outside the entries will be interpreted as comments.
+  However, do not use the at-sign outside the entries.
+- The key of an entry must not contain spaces or commas.
+- The author and editor fields are alternative in a book or inbook
+  entry.
+- The volume and number fields are alternative except in an article
+  entry where both volume and number can be used.
+- The isbn, issn, url, and language fields are not defined in the
+  original BibTeX style files.
+- If the entry has no author or editor, use the key field, which can
+  be used for alphabetizing.
+- The note field can be used in every entry to hold information that
+  does not fit in other fields.
+
+Jarmo Niemelä, 2014-12-21.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@string{ = {}}
+
+
+Aikakauslehden artikkeli:
+An article from a journal:
+@article{,
+  author = {},
+  title = {},
+  journal = {},
+  year = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTpages = {},
+  OPTmonth = {},
+  OPTissn = {},
+  OPTlanguage = {},
+}
+
+@online{,
+	ALTauthor = {},
+	ALTeditor = {},
+	title = {},
+	date = {},
+	url = {},
+	OPTsubtitle = {},
+	OPTtitleaddon = {},
+	OPTlanguage = {},
+	OPTversion = {},
+	OPTnote = {},
+	OPTorganization = {},
+	OPTdate = {},
+	OPTmonth = {},
+	OPTyear = {},
+	OPTaddendum = {},
+	OPTpubstate = {},
+	OPTurldate = {},
+}
+
+Kirja, jolla on tietty kustantaja:
+A book with an explicit publisher:
+@book{,
+  author = {},
+  editor = {},
+  title = {},
+  publisher = {},
+  year = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTmonth = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Julkaisu, jolla ei ole nimettyä kustantajaa:
+A work without a named publisher:
+@booklet{,
+  title = {},
+  OPTauthor = {},
+  OPThowpublished = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTyear = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Artikkeli konferenssijulkaisussa (sama kuin inproceedings):
+An article in a conference proceedings (same as inproceedings):
+@conference{,
+  author = {},
+  title = {},
+  booktitle = {},
+  year = {},
+  OPTeditor = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTpages = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTorganization = {},
+  OPTpublisher = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Osa kirjasta (luku tms.):
+A part of a book (chapter or the like):
+@inbook{,
+  author = {},
+  editor = {},
+  title = {},
+  chapter = {},
+  pages = {},
+  publisher = {},
+  year = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTtype = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTmonth = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Osa kokoelmateoksesta (nimetty luku tms.):
+A part of a book with its own title:
+@incollection{,
+  author = {},
+  title = {},
+  booktitle = {},
+  publisher = {},
+  year = {},
+  OPTeditor = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTtype = {},
+  OPTchapter = {},
+  OPTpages = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTmonth = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Artikkeli konferenssijulkaisussa:
+An article in a conference proceedings:
+@inproceedings{,
+  author = {},
+  title = {},
+  booktitle = {},
+  year = {},
+  OPTeditor = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTpages = {},
+  OPTorganization = {},
+  OPTpublisher = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Käsikirja tms. tekninen dokumentti:
+Technical documentation:
+@manual{,
+  title = {},
+  OPTauthor = {},
+  OPTorganization = {},
+  OPTaddress = {},
+  OPTedition = {},
+  OPTmonth = {},
+  OPTyear = {},
+  OPTurl = {},
+  OPTlanguage = {},
+}
+
+
+Pro gradu -tutkielma tai diplomityö:
+A master's thesis:
+@mastersthesis{,
+  author = {},
+  title = {},
+  school = {},
+  year = {},
+  OPTtype = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTlanguage = {},
+}
+
+
+Muihin tietueisiin sopimaton lähde:
+Use this type when nothing else fits:
+@misc{,
+  OPTauthor = {},
+  OPTtitle = {},
+  OPThowpublished = {},
+  OPTmonth = {},
+  OPTyear = {},
+  OPTissn = {},
+  OPTurl = {},
+  OPTlanguage = {},
+}
+
+
+Väitöskirja:
+A Ph.D. thesis:
+@phdthesis{,
+  author = {},
+  title = {},
+  school = {},
+  year = {},
+  OPTtype = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Konferenssijulkaisu:
+The proceedings of a conference:
+@proceedings{,
+  title = {},
+  year = {},
+  OPTeditor = {},
+  OPTvolume = {},
+  OPTnumber = {},
+  OPTseries = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTorganization = {},
+  OPTpublisher = {},
+  OPTisbn = {},
+  OPTlanguage = {},
+}
+
+
+Tekninen raportti:
+A technical report:
+@techreport{,
+  author = {},
+  title = {},
+  institution = {},
+  year = {},
+  OPTtype = {},
+  OPTnumber = {},
+  OPTaddress = {},
+  OPTmonth = {},
+  OPTlanguage = {},
+}
+
+
+Muodollisesti julkaisematon lähde:
+A formally unpublished document:
+@unpublished{,
+  author = {},
+  title = {},
+  note = {},
+  OPTmonth = {},
+  OPTyear = {},
+  OPTlanguage = {},
+}

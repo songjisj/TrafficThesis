@@ -1,0 +1,60 @@
+\vspace {-1em}
+\select@language {english}
+\contentsline {paragraph}{Key words}{3}{section*.2}
+\contentsline {chapter}{\numberline {1}Introduction}{8}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{8}{section.1.1}
+\contentsline {section}{\numberline {1.2}A statement of the problem}{8}{section.1.2}
+\contentsline {section}{\numberline {1.3}The definition of terms}{11}{section.1.3}
+\contentsline {section}{\numberline {1.4}Technical background}{13}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Source of the study data}{13}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Development environment}{14}{subsection.1.4.2}
+\contentsline {subsubsection}{Production components}{14}{section*.8}
+\contentsline {subsubsection}{User interface components}{15}{section*.9}
+\contentsline {subsubsection}{Development components}{15}{section*.10}
+\contentsline {subsubsection}{Key parts}{15}{section*.11}
+\contentsline {section}{\numberline {1.5}Thesis organization}{16}{section.1.5}
+\contentsline {chapter}{\numberline {2}Fundamental of traffic signal controlling}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Signal timing operation}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}Study of Queue at intersections}{17}{section.2.2}
+\contentsline {section}{\numberline {2.3}Delay at signalized intersections}{19}{section.2.3}
+\contentsline {section}{\numberline {2.4}Research on saturation flow rate}{20}{section.2.4}
+\contentsline {chapter}{\numberline {3}The analysis and visualization}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Signal timing }{22}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Green timing}{22}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Active green}{23}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Queue and delay at intersections}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Queue length}{26}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Waiting time at intersections}{27}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Traffic capacity}{27}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Saturation flow rate}{27}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Maximum capacity}{29}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Volume}{30}{section.3.4}
+\contentsline {section}{\numberline {3.5}Arrival on green}{32}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Arrival on green percentage}{32}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Arrival on green ratio}{34}{subsection.3.5.2}
+\contentsline {chapter}{\numberline {4}Validation and analysis }{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Validation of results}{36}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Comparison on green duration}{36}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Comparison on volume}{37}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Comparison on saturation flow rate}{39}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Analysis of traffic signal measurements}{42}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Signal timing plan of operation}{42}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Green allocation}{43}{subsection.4.2.2}
+\contentsline {chapter}{\numberline {5}Discussion}{45}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusion}{46}{chapter.6}
+\contentsline {chapter}{\numberline {7}Acknowledgements}{47}{chapter.7}
+\contentsline {chapter}{Bibliography}{49}{chapter*.38}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}
+\select@language {english}

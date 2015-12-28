@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis-template.aux
+The style file: utastmth.bst
+Database file #1: viitteet.bib
+Warning--entry type for "Trafficsignal" isn't style-file defined
+--line 11 of file viitteet.bib
+Warning--entry type for "Trafficwave" isn't style-file defined
+--line 29 of file viitteet.bib
+Warning--entry type for "STM:2008" isn't style-file defined
+--line 147 of file viitteet.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in Shao:2012
+Warning--empty booktitle in Turner:1993
+You've used 19 entries,
+            3327 wiz_defined-function locations,
+            829 strings with 8731 characters,
+and the built_in function-call counts, 8988 in all, are:
+= -- 783
+> -- 306
+< -- 17
++ -- 123
+- -- 102
+* -- 693
+:= -- 1488
+add.period$ -- 21
+call.type$ -- 19
+change.case$ -- 114
+chr.to.int$ -- 19
+cite$ -- 21
+duplicate$ -- 567
+empty$ -- 666
+format.name$ -- 147
+if$ -- 1783
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 117
+newline$ -- 75
+num.names$ -- 68
+pop$ -- 263
+preamble$ -- 1
+purify$ -- 112
+quote$ -- 0
+skip$ -- 298
+stack$ -- 0
+substring$ -- 401
+swap$ -- 310
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 168
+warning$ -- 2
+while$ -- 64
+width$ -- 0
+write$ -- 234
+(There were 5 warnings)

@@ -1,0 +1,113 @@
+\begin{thebibliography}{19}
+\newcommand{\enquote}[1]{''#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\iflanguage}[3]{#3}
+\providecommand{\urlprefix}{\iflanguage{english}{Available from Internet:
+  }{Saatavilla Internetist\^^b{a}: }}
+\providecommand{\selectlanguage}[1]{\relax}
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+
+{\selectlanguage{english}
+\bibitem[{Ahola(2015)}]{TFG:2015}
+Ahola, P. (2015), \emph{Traffic flow garner system specification}.\par}
+
+{\selectlanguage{english}
+\bibitem[{Aljaafreh \& Al~Oudat(2014)}]{Aljaa:2014}
+Aljaafreh, A. \& Al~Oudat, N. (2014), \enquote{Optimized Timing Parameters for
+  Real-Time Adaptive Traffic Signal Controller}, in \emph{Computer Modelling
+  and Simulation (UKSim), 2014 UKSim-AMSS 16th International Conference on},
+  pp. 244--247.\par}
+
+{\bibitem[{Anusha \& Sharma(2013)}]{Anusha:2013}
+Anusha, L. D.~V., S.~P. \& Sharma, A. (2013), \enquote{A Simple Method for
+  Estimation of Queue Length}, \emph{International Journal of Innovation
+  Research in Science, Engineering and Technology}.\par}
+
+{\bibitem[{Ban et~al.(2009)Ban, Herring, Hao \& Bayen}]{doi:10.3141/2130-14}
+Ban, X., Herring, R., Hao, P. \& Bayen, A. (2009), \enquote{Delay Pattern
+  Estimation for Signalized Intersections Using Sampled Travel Times},
+  \emph{Transportation Research Record: Journal of the Transportation Research
+  Board}, 2130, 109--119.
+  \urlprefix\url{http://dx.doi.org/10.3141/2130-14}.\par}
+
+{\bibitem[{Board(2010)}]{HCM:2010}
+Board, N. R. C. U. T.~R. (2010), \emph{HCM 2010 : highway capacity manual},
+  Washington, D.C. : Transportation Research Board, ©2010.\par}
+
+{\selectlanguage{english}
+\bibitem[{Chanloha et~al.(2012)Chanloha, Usaha, Chinrungrueng \&
+  Aswakul}]{Chanloha:2012}
+Chanloha, P., Usaha, W., Chinrungrueng, J. \& Aswakul, C. (2012),
+  \enquote{Performance Comparison between Queueing Theoretical Optimality and
+  Q-Learning Approach for Intersection Traffic Signal Control}, in
+  \emph{Computational Intelligence, Modelling and Simulation (CIMSiM), 2012
+  Fourth International Conference on}, pp. 172--177.\par}
+
+{\bibitem[{Department(1995)}]{idaho:1995}
+Department, I.~T. (1995), \emph{IDAHO TRANSPORTATION DEPARTMENT TRAFFIC
+  MANUAL}.\par}
+
+{\selectlanguage{english}
+\bibitem[{Koonce(2008)}]{STM:2008}
+Koonce, P. (2008), \enquote{Traffic Signal Timing Manual},
+  \urlprefix\url{http://www.signaltiming.com/The_Signal_Timing_Manual_08082008.pdf}.\par}
+
+{\bibitem[{List \& Cetin(2004)}]{List:2004}
+List, G. \& Cetin, M. (2004), \enquote{Modeling traffic signal control using
+  Petri nets}, \emph{Intelligent Transportation Systems, IEEE Transactions on},
+  5, 177--187.\par}
+
+{\bibitem[{Liu et~al.(2009)Liu, Wu, Ma \& Hu}]{liu2009real}
+Liu, H.~X., Wu, X., Ma, W. \& Hu, H. (2009), \enquote{Real-time queue length
+  estimation for congested signalized intersections}, \emph{Transportation
+  research part C: emerging technologies}, 17, 412--427.\par}
+
+{\bibitem[{Ljubisic(2014)}]{ImFlow:2014}
+Ljubisic, N. (2014), \emph{ImFlow Central User Manual}.\par}
+
+{\selectlanguage{english}
+\bibitem[{Shao Chang-qiao(2012)}]{Shao:2012}
+Shao Chang-qiao, L. X.-m. (2012), \enquote{Estimation of Saturation Flow Rates
+  at Signalized Intersections},
+  \urlprefix\url{http://dx.doi.org/10.1155/2012/720474}.\par}
+
+{\bibitem[{Skabardonis \& Geroliminis(2008)}]{Ska:2008}
+Skabardonis, A. \& Geroliminis, N. (2008), \enquote{Real-Time Monitoring and
+  Control on Signalized Arterials}, \emph{Journal of Intelligent Transportation
+  Systems}, 12, 64--74.
+  \urlprefix\url{http://www.tandfonline.com/doi/abs/10.1080/15472450802023337}.\par}
+
+{\bibitem[{Traffic signal wikibook(2015)}]{Trafficsignal}
+Traffic signal wikibook (2015), \enquote{Fundamentals of Transportation Traffic
+  Signals},
+  \urlprefix\url{https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Traffic_Signals}.\par}
+
+{\bibitem[{Traffic wave wikipedia(2015)}]{Trafficwave}
+Traffic wave wikipedia (2015), \enquote{Traffic wave},
+  \urlprefix\url{https://en.wikipedia.org/wiki/Traffic_wave}.\par}
+
+{\bibitem[{Transportation(2015)}]{FHWA:signaltiming}
+Transportation, U. S.~D. (2015), \enquote{Federal highway administration},
+  \urlprefix\url{http://ops.fhwa.dot.gov/publications/signal_timing/03.htm},
+  [Online; accessed 14-Oct-2015].\par}
+
+{\selectlanguage{english}
+\bibitem[{Turner \& Harahap(1993)}]{Turner:1993}
+Turner, J. \& Harahap, G. (1993), \enquote{simplified saturation flow data
+  collection methods}, pp. 65--76.\par}
+
+{\bibitem[{Wikipedia(2015)}]{wiki:Signaltiming}
+Wikipedia (2015), \enquote{Signaltiming --- {W}ikipedia{,} The Free
+  Encyclopedia}, \urlprefix\url{https://en.wikipedia.org/wiki/Signal_timing},
+  [Online; accessed 14-Oct-2015].\par}
+
+{\selectlanguage{english}
+\bibitem[{Wolfe et~al.(2007)Wolfe, Monsere, Koonce \& Bertini}]{Wolfe:2007}
+Wolfe, M., Monsere, C., Koonce, P. \& Bertini, R. (2007), \enquote{Improving
+  Arterial Performance Measurement Using Traffic Signal System Data}, in
+  \emph{Intelligent Transportation Systems Conference, 2007. ITSC 2007. IEEE},
+  pp. 113--118.\par}
+
+\end{thebibliography}

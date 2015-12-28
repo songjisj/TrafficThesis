@@ -1,0 +1,39 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Background}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{A statement of the problem}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{The definition of terms}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Technical background}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.4.1}{Source of the study data}{section.1.4}% 6
+\BOOKMARK [2][-]{subsection.1.4.2}{Development environment}{section.1.4}% 7
+\BOOKMARK [1][-]{section.1.5}{Thesis organization}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Fundamental of traffic signal controlling}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Signal timing operation}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{Study of Queue at intersections}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Delay at signalized intersections}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.4}{Research on saturation flow rate}{chapter.2}% 13
+\BOOKMARK [0][-]{chapter.3}{The analysis and visualization}{}% 14
+\BOOKMARK [1][-]{section.3.1}{Signal timing }{chapter.3}% 15
+\BOOKMARK [2][-]{subsection.3.1.1}{Green timing}{section.3.1}% 16
+\BOOKMARK [2][-]{subsection.3.1.2}{Active green}{section.3.1}% 17
+\BOOKMARK [1][-]{section.3.2}{Queue and delay at intersections}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.2.1}{Queue length}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.2}{Waiting time at intersections}{section.3.2}% 20
+\BOOKMARK [1][-]{section.3.3}{Traffic capacity}{chapter.3}% 21
+\BOOKMARK [2][-]{subsection.3.3.1}{Saturation flow rate}{section.3.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.2}{Maximum capacity}{section.3.3}% 23
+\BOOKMARK [1][-]{section.3.4}{Volume}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.5}{Arrival on green}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.5.1}{Arrival on green percentage}{section.3.5}% 26
+\BOOKMARK [2][-]{subsection.3.5.2}{Arrival on green ratio}{section.3.5}% 27
+\BOOKMARK [0][-]{chapter.4}{Validation and analysis }{}% 28
+\BOOKMARK [1][-]{section.4.1}{Validation of results}{chapter.4}% 29
+\BOOKMARK [2][-]{subsection.4.1.1}{Comparison on green duration}{section.4.1}% 30
+\BOOKMARK [2][-]{subsection.4.1.2}{Comparison on volume}{section.4.1}% 31
+\BOOKMARK [2][-]{subsection.4.1.3}{Comparison on saturation flow rate}{section.4.1}% 32
+\BOOKMARK [1][-]{section.4.2}{Analysis of traffic signal measurements}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.2.1}{Signal timing plan of operation}{section.4.2}% 34
+\BOOKMARK [2][-]{subsection.4.2.2}{Green allocation}{section.4.2}% 35
+\BOOKMARK [0][-]{chapter.5}{Discussion}{}% 36
+\BOOKMARK [0][-]{chapter.6}{Conclusion}{}% 37
+\BOOKMARK [0][-]{chapter.7}{Acknowledgements}{}% 38
+\BOOKMARK [0][-]{chapter*.38}{Bibliography}{}% 39
